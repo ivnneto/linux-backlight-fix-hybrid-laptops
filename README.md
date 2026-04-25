@@ -45,6 +45,11 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
 Reboot and test your brightness keys.
 
+```bash
+# All distros
+sudo reboot
+```
+
 ---
 
 ## Which parameter should I use?
