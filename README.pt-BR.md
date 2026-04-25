@@ -45,6 +45,11 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
 Reinicie o sistema e teste as teclas de brilho.
 
+```bash
+# Todas as distros
+sudo reboot
+```
+
 ---
 
 ## Qual parâmetro usar?
