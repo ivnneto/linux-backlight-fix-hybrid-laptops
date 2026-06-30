@@ -101,6 +101,7 @@ An older parameter with similar effect to `native`. Useful on kernels before 5.x
 | Model | CPU | GPU | Distro | Kernel | Fix |
 |---|---|---|---|---|---|
 | Acer Nitro AN515-58 | Intel i5-12500H | RTX 3050 | Ubuntu 22.04, Pop!_OS, Arch | 5.15 – 6.x | `acpi_backlight=native` ✅ |
+| ASUS TUF GAMING A15 | AMD Ryzen 5 7535HS | RTX 3050 Mobile | Linux Mint 22.3 XFCE | 6.17.0-35-generic | `acpi_backlight=native` ✅ |
 
 **Did it work on your machine?** Open a PR or issue and I'll add it to the table!
 
